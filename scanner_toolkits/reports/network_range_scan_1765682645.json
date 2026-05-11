@@ -1,0 +1,8 @@
+{
+    "scan_type": "network_range_scan",
+    "base_network": "192.168.1",
+    "range": "1-100",
+    "timestamp": "2025-12-14 10:24:05",
+    "duration_seconds": 6.15,
+    "active_devices": {}
+}

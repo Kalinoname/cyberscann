@@ -1,0 +1,34 @@
+{
+    "type": "web",
+    "target": "https://cadt.edu.kh",
+    "vulnerability": [
+        {
+            "name": "Missing Security Header",
+            "severity": "Low",
+            "detail": [
+                "Cache-Control",
+                "Clear-Site-Data",
+                "Content-Security-Policy",
+                "Cross-Origin-Embedder-Policy",
+                "Cross-Origin-Opener-Policy",
+                "Cross-Origin-Resource-Policy",
+                "Permissions-Policy",
+                "Referrer-Policy",
+                "Strict-Transport-Security",
+                "X-Permitted-Cross-Domain-Policies",
+                "X-DNS-Prefetch-Control",
+                "X-Content-Type-Options",
+                "X-Frame-Options",
+                "Content-Security-Policy"
+            ]
+        },
+        {
+            "name": "Reflected XSS Detected",
+            "severity": "Medium",
+            "detail": [
+                "Payload reflected: vscan_test_reflect_12345 in URL https://cadt.edu.kh?q=vscan_test_reflect_12345"
+            ]
+        }
+    ],
+    "server": "Apache"
+}

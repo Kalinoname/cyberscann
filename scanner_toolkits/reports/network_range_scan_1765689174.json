@@ -1,0 +1,18 @@
+{
+    "scan_type": "network_range_scan",
+    "base_network": "192.168.0",
+    "range": "1-254",
+    "timestamp": "2025-12-14 12:12:54",
+    "duration_seconds": 6.17,
+    "active_devices": {
+        "192.168.0.1": [
+            22,
+            80,
+            443
+        ],
+        "192.168.0.104": [
+            80,
+            3306
+        ]
+    }
+}

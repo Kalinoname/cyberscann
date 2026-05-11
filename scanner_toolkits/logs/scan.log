@@ -1,0 +1,70 @@
+[2025-12-14 09:37:37] NetworkRangeScanner: start 192.168.1.1-254
+[2025-12-14 10:23:59] NetworkRangeScanner: start 192.168.1.1-100
+[2025-12-14 10:24:05] NetworkRangeScanner: completed found = 0
+[2025-12-14 10:24:43] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 10:24:50] NetworkRangeScanner: completed found = 2
+[2025-12-14 10:30:49] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 10:30:55] NetworkRangeScanner: completed found = 2
+[2025-12-14 10:34:10] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 10:34:16] NetworkRangeScanner: completed found = 2
+[2025-12-14 11:08:10] WebScanner: start https://cadt.edu.kh
+[2025-12-14 11:48:44] PortScanner: start scanning 192.168.0.140
+[2025-12-14 11:52:45] PortScanner: start scanning 192.168.0.140
+[2025-12-14 11:59:56] PortScanner: start scanning 192.168.0.104
+[2025-12-14 11:59:59] PortScanner completed for 192.168.0.104
+[2025-12-14 12:12:16] PortScanner: start scanning 192.168.0.104
+[2025-12-14 12:12:18] PortScanner completed for 192.168.0.104
+[2025-12-14 12:12:48] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 12:12:54] NetworkRangeScanner: completed found = 2
+[2025-12-14 12:15:22] PortScanner: start scanning 127.0.0.1
+[2025-12-14 12:15:24] PortScanner completed for 127.0.0.1
+[2025-12-14 12:16:15] PortScanner: start scanning 192.168.0.104
+[2025-12-14 12:16:17] PortScanner completed for 192.168.0.104
+[2025-12-14 12:16:28] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 12:16:35] NetworkRangeScanner: completed found = 2
+[2025-12-14 12:16:46] WebScanner: start https://cadt.edu.kh
+[2025-12-14 16:33:15] PortScanner: start scanning 127.0.0.1
+[2025-12-14 16:33:17] PortScanner completed for 127.0.0.1
+[2025-12-14 16:35:30] PortScanner: start scanning 127.0.0.1
+[2025-12-14 16:36:50] PortScanner: start scanning 192.168.0.1
+[2025-12-14 16:36:52] PortScanner completed for 192.168.0.1
+[2025-12-14 16:37:05] PortScanner: start scanning 192.168.1.1
+[2025-12-14 16:37:07] PortScanner completed for 192.168.1.1
+[2025-12-14 16:38:41] NetworkRangeScanner: start 192.168.0.1-254
+[2025-12-14 16:38:47] NetworkRangeScanner: completed found = 2
+[2025-12-14 16:40:28] WebScanner: start https://cadt.edu.kh
+[2025-12-14 16:50:32] PortScanner: start scanning 127.0.0.1
+[2025-12-14 16:50:36] PortScanner completed for 127.0.0.1
+[2025-12-15 08:11:29] NetworkRangeScanner: start 172.23.32.1-254
+[2025-12-15 08:11:35] NetworkRangeScanner: completed found = 18
+[2025-12-15 08:13:16] PortScanner: start scanning 172.23.32.167
+[2025-12-15 08:13:47] PortScanner: start scanning 172.23.32.176
+[2025-12-15 08:13:54] PortScanner completed for 172.23.32.176
+[2025-12-15 08:18:20] PortScanner: start scanning 127.0.0.1
+[2025-12-15 08:18:22] PortScanner completed for 127.0.0.1
+[2025-12-15 08:18:32] PortScanner: start scanning 127.0.0.1
+[2025-12-15 08:18:37] PortScanner completed for 127.0.0.1
+[2025-12-15 14:16:58] PortScanner: start scanning 127.0.0.1
+[2025-12-15 14:17:03] PortScanner completed for 127.0.0.1
+[2025-12-15 14:17:14] NetworkRangeScanner: start 172.23.32.1-254
+[2025-12-15 14:17:20] NetworkRangeScanner: completed found = 10
+[2025-12-15 14:17:34] WebScanner: start https://cadt.edu.kh
+[2025-12-15 14:21:41] PortScanner: start scanning 172.23.35.160
+[2025-12-15 14:21:53] PortScanner completed for 172.23.35.160
+[2025-12-15 14:22:16] PortScanner: start scanning 172.23.35.160
+[2025-12-15 14:22:25] PortScanner completed for 172.23.35.160
+[2025-12-15 14:23:36] PortScanner: start scanning 172.23.35.160
+[2025-12-15 14:23:44] PortScanner completed for 172.23.35.160
+[2025-12-15 14:24:06] NetworkRangeScanner: start 172.23.35.150-170
+[2025-12-15 14:24:12] NetworkRangeScanner: completed found = 4
+[2025-12-15 14:39:05] PortScanner: start scanning 172.23.32.150
+[2025-12-15 14:39:07] PortScanner completed for 172.23.32.150
+[2025-12-15 14:39:12] PortScanner: start scanning 172.23.32.150
+[2025-12-15 14:39:23] PortScanner completed for 172.23.32.150
+[2025-12-15 14:40:10] PortScanner: start scanning 172.23.32.150
+[2025-12-15 14:40:30] PortScanner: start scanning 172.23.32.150
+[2025-12-15 14:40:37] PortScanner completed for 172.23.32.150
+[2025-12-15 14:41:45] NetworkRangeScanner: start 172.23.32.1-254
+[2025-12-15 14:41:51] NetworkRangeScanner: completed found = 12
+[2025-12-15 14:45:33] PortScanner: start scanning 172.23.32.150
+[2025-12-15 14:45:42] PortScanner completed for 172.23.32.150

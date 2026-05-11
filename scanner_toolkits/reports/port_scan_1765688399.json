@@ -1,0 +1,50 @@
+[
+    [
+        7,
+        "Unknown Service"
+    ],
+    [
+        9,
+        "Unknown Service"
+    ],
+    [
+        13,
+        "Unknown Service"
+    ],
+    [
+        17,
+        "Unknown Service"
+    ],
+    [
+        19,
+        "Unknown Service"
+    ],
+    [
+        80,
+        "HTTP"
+    ],
+    [
+        135,
+        "MS RPC"
+    ],
+    [
+        139,
+        "NetBIOS"
+    ],
+    [
+        445,
+        "SMB"
+    ],
+    [
+        515,
+        "Unknown Service"
+    ],
+    [
+        902,
+        "Unknown Service"
+    ],
+    [
+        912,
+        "Unknown Service"
+    ]
+]
